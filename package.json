@@ -1,0 +1,28 @@
+{
+  "name": "nodejs_exercicios",
+  "version": "1.0.0",
+  "description": "exercícios de node js",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/fnandos1987/nodejs_exercicios.git"
+  },
+  "keywords": [
+    "exercícios",
+    "node",
+    "js"
+  ],
+  "author": "Fernando Schwambach",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/fnandos1987/nodejs_exercicios/issues"
+  },
+  "homepage": "https://github.com/fnandos1987/nodejs_exercicios#readme",
+  "dependencies": {
+    "exif": "^0.6.0",
+    "yargs": "^11.0.0"
+  }
+}
